@@ -6,7 +6,7 @@ const projectsData = [
         description: "Analyzed 3,000+ social media posts to classify sentiments (Positive: 42%, Neutral: 36%, Negative: 22%) with interactive Power BI dashboard featuring real-time filtering.",
         technologies: ["Power BI", "DAX", "Excel", "Power Query"],
         githubUrl: "https://github.com/aabhhayy/Social-Medai-Sentiment-Analytics",
-        image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
+        image: "https://github.com/aabhhayy/Social-Medai-Sentiment-Analytics/blob/main/dashboard%20img.png?raw=true&auto=format&fit=crop&w=800&h=400",
         year: "2025",
         category: "analytics"
     },
@@ -491,4 +491,5 @@ if (!window.IntersectionObserver) {
     document.querySelectorAll('.fade-in').forEach(el => {
         el.classList.add('visible');
     });
+
 }
